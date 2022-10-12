@@ -1,8 +1,8 @@
-package com.example.BalanceCRUD.controller;
+package com.cognizant.balance.controller;
 
-import com.example.BalanceCRUD.model.Balance;
-import com.example.BalanceCRUD.repo.BalanceRepo;
-import com.example.BalanceCRUD.service.BalanceService;
+import com.cognizant.balance.model.Balance;
+import com.cognizant.balance.repo.BalanceRepo;
+import com.cognizant.balance.service.BalanceService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

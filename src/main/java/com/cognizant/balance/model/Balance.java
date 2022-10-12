@@ -1,4 +1,4 @@
-package com.example.BalanceCRUD.model;
+package com.cognizant.balance.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

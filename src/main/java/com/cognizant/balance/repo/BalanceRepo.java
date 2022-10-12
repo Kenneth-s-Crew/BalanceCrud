@@ -1,6 +1,6 @@
-package com.example.BalanceCRUD.repo;
+package com.cognizant.balance.repo;
 
-import com.example.BalanceCRUD.model.Balance;
+import com.cognizant.balance.model.Balance;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

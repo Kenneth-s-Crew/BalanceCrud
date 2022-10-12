@@ -1,7 +1,7 @@
-package com.example.BalanceCRUD.service;
+package com.cognizant.balance.service;
 
-import com.example.BalanceCRUD.model.Balance;
-import com.example.BalanceCRUD.repo.BalanceRepo;
+import com.cognizant.balance.model.Balance;
+import com.cognizant.balance.repo.BalanceRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
